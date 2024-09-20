@@ -1,0 +1,17 @@
+/* Navbar.module.css */
+.brand {
+    font-size: 1.5rem; /* Adjust font size if needed */
+    font-weight: bold; /* Make the brand name bold */
+  }
+  
+  .navLinks {
+    display: flex;
+    flex-grow: 1; /* Allow this container to take up available space */
+    justify-content: flex-end; /* Push all items to the right */
+  }
+  
+  .navLinks .nav-link {
+    margin-left: 1rem; /* Space between links */
+  }
+  
+  
